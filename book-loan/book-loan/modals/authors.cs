@@ -14,12 +14,10 @@
 
         public string biografi { get; set; }
 
-        public string nationality { get; set; } 
+        public string nationality { get; set; }
 
 
-        // första kommentaren//
-
-        //andra//
+        public  string  hello{ get; set; }
 
 
     }
