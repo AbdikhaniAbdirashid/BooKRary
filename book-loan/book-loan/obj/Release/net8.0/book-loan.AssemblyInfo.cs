@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("book-loan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+144c795e62913dce5e58157521bcac42684519e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("book-loan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("book-loan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
